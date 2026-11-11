@@ -1,16 +1,27 @@
-## Hi there 👋
+# Привет! Я Ирина Медовникова 👋
 
-<!--
-**irinamedovnikova345-ui/irinamedovnikova345-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Создаю ИИ-продукты для путешественников: от Telegram-ботов до мобильного приложения. Прохожу весь путь сама — идея, дизайн, сервер, подключение ИИ, тестирование и запуск. Разрабатываю в паре с ИИ-ассистентом: ставлю задачи, проверяю результат и довожу продукт до рабочего состояния.
 
-Here are some ideas to get you started:
+## Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Проект | Что это | Стек |
+|---|---|---|
+| 🌍 [**World in Pocket**](https://github.com/irinamedovnikova345-ui/world-in-pocket) | мобильное приложение: перевод текста, голоса и фото на 62 языка, сообщения местным, визы с источниками | React Native, Expo, FastAPI, Gemini, Google Cloud |
+| 🤖 [**Мир в кармане**](https://github.com/irinamedovnikova345-ui/mir-v-karmane-bots) | сеть Telegram-ботов: главный бот + 15 стран Азии, SOS, визы, подписка через Telegram Stars | Python, aiogram 3, Gemini, SQLite, AWS |
+| 📦 [**ПВЗ Баланс**](https://github.com/irinamedovnikova345-ui/pvz-balans) | веб-приложение для владельцев пунктов выдачи: график смен, штрафы маркетплейсов со сроками оспаривания, зарплаты, прибыль по точкам, кабинет сотрудника | Next.js, React, TypeScript, PostgreSQL |
+
+Код World in Pocket и ботов хранится в закрытых репозиториях, покажу по запросу.
+
+## Что умею
+
+- Telegram-боты на Python (aiogram): меню, подписки, лимиты, напоминания, партнёрские ссылки
+- Подключение ИИ (Gemini): перевод, распознавание фото и речи, ответы с поиском
+- Мобильные приложения на Expo / React Native, сборка Android
+- Веб-приложения на Next.js / React / TypeScript с базой PostgreSQL
+- Серверы на FastAPI, деплой в облако (Google Cloud Run, AWS)
+- Тестирование, работа с Git и GitHub
+- Тексты: описания продуктов, политика конфиденциальности, инструкции для пользователей
+
+## Контакты
+
+📬 irinamedovnikova345@gmail.com
